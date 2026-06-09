@@ -36,5 +36,6 @@ Console-Based Application
 ![Reading Statistics](assets/reading_stats.png)
 
 ## Author
-Nancy Sharma
+_Nancy Sharma_
+
 B.Tech CSE Student
