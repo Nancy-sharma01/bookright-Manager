@@ -14,6 +14,8 @@ A Python-based book management system for storing, managing and organizing book 
 ## Technologies Used
 - Python
 - JSON
+- File Handling
+- Object-Oriented Programming (OOP)
   
 ## Project Type
 Console-Based Application
@@ -34,6 +36,13 @@ Console-Based Application
 
 ### Reading Statistics
 ![Reading Statistics](assets/reading_stats.png)
+
+## Future Improvements
+
+- Export book collection to CSV
+- Add user authentication
+- Add GUI version using Tkinter
+- Add book recommendations
 
 ## Author
 _Nancy Sharma_
