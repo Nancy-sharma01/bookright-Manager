@@ -21,23 +21,35 @@ A console-based Python application for managing and organizing your personal boo
 - JSON
 - File Handling
 - Object-Oriented Programming (OOP)
-  
+
+---
+
 ## Project Type
 Console-Based Application
+
+---
 
 ## Screenshots
 
 ### Main Menu
 ![Main Menu](assets/main_menu.png)
 
+---
+
 ### Add a New Book
 ![Add Book](assets/add_books.png)
+
+---
 
 ### View Books
 ![View Books](assets/view_books.png)
 
+---
+
 ### Search Books
 ![Search Books](assets/search_book.png)
+
+---
 
 ### Reading Statistics
 ![Reading Statistics](assets/reading_stats.png)
@@ -80,7 +92,6 @@ No additional dependencies required — runs with Python's standard library.
 
 Bookright Manager stores all book records in `books.json`, allowing data to persist between sessions. Users interact through a simple command-line menu to add, search, update, or remove books, and can view quick statistics about their reading progress.
 
----
 ---
 
 ## 📂 Project Structure
