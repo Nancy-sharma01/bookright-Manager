@@ -135,8 +135,9 @@ Bookright Manager stores all book records in `books.json`, allowing data to pers
 ## 👩‍💻 Developer
 
 **Nancy Sharma**
-B.Tech Computer Science & Engineering Student
 
+_B.Tech Computer Science & Engineering Student
+_
 ---
 
 ⭐ *If you found this project useful, consider giving it a star!*
